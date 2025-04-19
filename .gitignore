@@ -1,0 +1,18 @@
+# Ignore Terraform state and backups
+*.tfstate
+*.tfstate.*
+crash.log
+*.backup
+
+# Ignore .terraform directory
+.terraform/
+
+# Optional: ignore provider lock file if working solo
+.terraform.lock.hcl
+
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+*.backup
+crash.log
