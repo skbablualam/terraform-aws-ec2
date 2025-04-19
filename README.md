@@ -101,7 +101,7 @@ terraform destroy
 Type yes when prompted.
 ```
 
-## 📸 Check out this visual from my terminal session (including a few Git hiccups I tackled like a DevOps warrior 🛠️):
+## 📸 Check out this visual from my terminal session:
 
 ![Image 1947-01-29 at 4 05 PM](https://github.com/user-attachments/assets/ebdddc11-80c7-448f-a5b5-0ee301deb239)
 ![Image 1947-01-29 at 4 00 PM](https://github.com/user-attachments/assets/f0057744-0dfb-4f96-ab99-d84ea8282d16)
