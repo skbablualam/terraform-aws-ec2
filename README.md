@@ -4,6 +4,8 @@ This is a beginner-friendly Terraform project that deploys a basic EC2 instance 
 
 ---
 
+
+
 ## 📌 Project Highlights
 
 - Provisions an Amazon EC2 instance using Terraform
@@ -97,6 +99,12 @@ terraform destroy
 
 Type yes when prompted.
 ```
+
+## 📸 Check out this visual from my terminal session (including a few Git hiccups I tackled like a DevOps warrior 🛠️):
+
+![Image 1947-01-29 at 4 05 PM](https://github.com/user-attachments/assets/ebdddc11-80c7-448f-a5b5-0ee301deb239)
+![Image 1947-01-29 at 4 00 PM](https://github.com/user-attachments/assets/f0057744-0dfb-4f96-ab99-d84ea8282d16)
+
 
 ## 📚 Learning Objectives
 
