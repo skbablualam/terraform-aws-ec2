@@ -53,7 +53,7 @@ key_name	Name of the existing SSH Key Pair	bablu-key
 
 ## 1. Clone the Repository
 ```
-git clone https://github.com/<your-username>/terraform-aws-ec2.git
+git clone https://github.com/skbablualam/terraform-aws-ec2.git
 cd terraform-aws-ec2
 ```
 
