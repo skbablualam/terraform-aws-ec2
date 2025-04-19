@@ -4,6 +4,7 @@ This is a beginner-friendly Terraform project that deploys a basic EC2 instance 
 
 ---
 
+![image](https://github.com/user-attachments/assets/21a2c54a-f217-4c2c-b2b5-4df01079b127)
 
 
 ## 📌 Project Highlights
